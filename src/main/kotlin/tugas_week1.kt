@@ -7,5 +7,5 @@ fun main() {
     val intro = "Nama $nama,nim $nim, kelas $kelas, prodi $prodi"
 
     println("Panjang karakternya ${intro.length} huruf")
-    hhbjhjnjnjnjk
+
 }
